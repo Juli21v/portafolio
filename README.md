@@ -2,6 +2,8 @@
 
 Sitio estático en la carpeta **`docs/`**, pensado para publicarse como **proyecto Pages** del repo `Juli21v/portafolio`.
 
+**Sitio publicado:** [https://juli21v.github.io/portafolio/](https://juli21v.github.io/portafolio/) · Repo: [github.com/Juli21v/portafolio](https://github.com/Juli21v/portafolio) · Ajustes Pages: [settings/pages](https://github.com/Juli21v/portafolio/settings/pages).
+
 URL final (tras configurar Pages): **https://juli21v.github.io/portafolio/**
 
 ## ¿Y el GitHub CLI?
