@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="100%" height="100%">
+  <rect width="800" height="450" fill="#161b22"/>
+  
+  <!-- Central node -->
+  <circle cx="400" cy="225" r="45" fill="#21262d" stroke="#58a6ff" stroke-width="4"/>
+  <text x="400" y="232" font-family="sans-serif" font-size="20" font-weight="bold" fill="#e6edf3" text-anchor="middle">DOM</text>
+  
+  <!-- Connections -->
+  <path d="M 230,135 L 360,195 M 230,315 L 360,255 M 570,315 L 440,255 M 570,135 L 440,195" fill="none" stroke="#30363d" stroke-width="4"/>
+  
+  <!-- Outer nodes representing APIs -->
+  <circle cx="200" cy="120" r="30" fill="#21262d" stroke="#3fb950" stroke-width="4"/>
+  <text x="200" y="126" font-family="sans-serif" font-size="16" font-weight="bold" fill="#8b949e" text-anchor="middle">API</text>
+
+  <circle cx="600" cy="120" r="30" fill="#21262d" stroke="#a371f7" stroke-width="4"/>
+  <text x="600" y="126" font-family="sans-serif" font-size="16" font-weight="bold" fill="#8b949e" text-anchor="middle">API</text>
+
+  <circle cx="200" cy="330" r="30" fill="#21262d" stroke="#f0883e" stroke-width="4"/>
+  <text x="200" y="336" font-family="sans-serif" font-size="16" font-weight="bold" fill="#8b949e" text-anchor="middle">API</text>
+
+  <circle cx="600" cy="330" r="30" fill="#21262d" stroke="#d29922" stroke-width="4"/>
+  <text x="600" y="336" font-family="sans-serif" font-size="16" font-weight="bold" fill="#8b949e" text-anchor="middle">API</text>
+</svg>
